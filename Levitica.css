@@ -1,0 +1,923 @@
+@media screen and (min-width:1200px)
+ {
+    
+
+
+.Header{
+   padding-left: 100px;
+   background-color: rgb(57, 105, 124);
+   color:white;
+   height:30px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   width: 100%;
+ 
+}
+
+/* .image-container{
+    position: relative;
+    width: 100%;
+    /* max-width: 600px; 
+}
+.image-container img{
+    
+    width: 100%;
+    display: block;
+
+}
+.color-overlay{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height:100%;
+    background-color: rgb(196, 190, 190);
+} */
+
+.Home{
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: sticky;
+    top: 0px;
+    background-color: white;   
+  
+}
+
+.button{
+            border: 2px solid rgb(57, 105, 124);        
+             margin-left:200px ;
+             height: 35px;
+             width: 130px;
+             padding-left: 30px;
+             padding-top: 15px;
+             margin-top: 30px;
+             border-radius: 50px;
+            
+            
+            background-color:rgb(57, 105, 124);
+
+} 
+
+.Picture{
+    position: relative;
+    width: 100%;
+    overflow-x: hidden;
+    display: block;
+}
+
+/* img {
+    width: 100%;
+    display: block;
+} */
+
+.text{
+    position: absolute;
+    top: 0;
+    margin-left: 150px;
+    font-size: 30px;
+    color: rgb(104, 101, 101);
+}
+
+ /* .border{
+    position: absolute;
+    top:0;
+    margin-left: 150px;
+    border: 2px solid rgb(116, 26, 26);
+    border-radius: 50px;
+    color: black;
+}  */
+
+.text2{
+    position: absolute;
+    top: 0;
+    margin-left: 150px;
+    margin-top: 200px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(104, 101, 101);
+
+}
+
+.second{
+    margin-left: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.para{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.space{
+    margin-left: 50px;
+}
+
+.gdpic{
+    margin-left: 150px;
+    margin-top: 100px;
+    border-radius: 10%;
+    width: 500px;
+    height: 500px;
+}
+
+.third{
+    background-color:  rgb(57, 105, 124);
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+   
+.one{
+    height: 300px;
+    width: 300px;
+   
+    border:2px solid white;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 35px;
+    padding-top: 70px;
+    text-align: center;
+    background-color:  white;
+
+}
+
+.two{
+    height: 300px;
+    width: 300px;
+   
+    border:2px solid white;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 35px;
+    padding-top: 70px;
+    text-align: center;
+    background-color:  white;
+}
+
+.three
+{
+    height: 300px;
+    width: 300px;
+   
+    border:2px solid white;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 35px;
+    padding-top: 70px;
+    text-align: center;
+    background-color:  white;
+    
+}
+
+.four
+{
+    height: 300px;
+    width: 300px;
+   
+    border:2px solid white;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 35px;
+    padding-top: 70px;
+    text-align: center;
+    background-color: white;
+}
+
+.Home img{
+    height: 100px;
+    margin-left: 70px;
+}
+
+.fourth{
+
+    height: 400px;
+    width: 400px;
+    border:2px solid rgb(57, 105, 124);
+    border-radius: 20px;
+    margin-top: 40px; 
+    margin-left: 150px;
+    padding-top: 70px;
+    text-align: justify;
+    padding-left: 50px;
+    background-color: rgb(57, 105, 124);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.white{
+    color: white;
+}
+
+    
+    
+.table
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 40px;
+    padding-left: 40px;
+
+}
+.fifth{
+   background-color:rgb(57, 105, 124); 
+}
+.fifth img{
+    /* height: 500px;
+    width: 600px; */
+    border-radius: 60px;
+    margin-top: 50px;
+    margin-left: 70px;
+    padding-bottom: 40px;
+}
+.table2{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+}
+.table2 table{
+    margin-left: 50px;
+}
+.fifthpart{
+    margin-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.order{
+    margin-left: 250px;
+    text-align: center;
+}
+.order p{
+    color: rgb(85, 83, 83);
+}
+.sixth{
+    color:white;
+    background-color:rgb(57, 105, 124) ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 30px;
+
+}
+.logo1{
+    height: 100px;
+    width: 150px;
+    border:2px solid rgb(85, 126, 143);
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 50px;
+    padding-top: 70px;
+    text-align: center;
+    background-color:  rgb(57, 105, 124);
+}
+.logo2{
+    height: 100px;
+    width: 150px;
+    border:2px solid rgb(85, 126, 143);
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 50px;
+    padding-top: 70px;
+    text-align: center;
+    background-color:  rgb(57, 105, 124);
+}
+.logo3{
+    height: 100px;
+    width: 150px;
+    border:2px solid rgb(85, 126, 143) ;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 50px;
+    padding-top: 70px;
+    text-align: center;
+    background-color:  rgb(57, 105, 124);
+}
+.logo4{
+    height: 100px;
+    width: 150px;
+    border:2px solid rgb(85, 126, 143) ;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 50px;
+    padding-top: 70px;
+    text-align: center;
+    background-color:  rgb(57, 105, 124);
+}
+.logos{
+    margin-left: 250px;
+    color: white;
+    margin-bottom: 140px;
+    
+
+}
+.logos:hover{
+    color:white;
+    border: 5px solid rgb(57, 105, 124);
+}
+.logo1:hover{
+    color:black;
+    border: 5px solid white;
+    background-color: white;
+    transform: scale(0.9);
+    transition: .5s;
+}
+.logo2:hover{
+    color:black;
+    border: 5px solid white;
+    background-color: white;
+    transform: scale(0.9);
+    transition: .5s;
+}
+.logo3:hover{
+    color:black;
+    border: 5px solid white;
+    background-color: white;
+    transform: scale(0.9);
+    transition: .5s;
+}
+.logo4:hover{
+    color:black;
+    border: 5px solid white;
+    background-color: white;
+    transform: scale(0.9);
+    transition: .5s;
+}
+.one:hover{
+    color:white;
+    border: 2px solid white;
+    background-color:rgb(57, 105, 124) ;
+    transform: scale(0.9);
+    transition: .5s;
+
+}
+.two:hover{
+    color:white;
+    border: 2px solid white;
+    background-color:rgb(57, 105, 124) ;
+    transform: scale(0.9);
+    transition: .5s; 
+    
+}
+
+.three:hover{
+    color:white;
+    border: 2px solid white;
+    background-color:rgb(57, 105, 124) ;
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.four:hover{
+    color:white;
+    border: 2px solid white;
+    background-color:rgb(57, 105, 124) ;
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+/* .Space2{
+    border: 20px solid white;
+    background-color: white;
+} */
+.Seven{
+  background-color:rgb(57, 105, 124) ;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.hyderabad{
+     color: black;
+    height:150px;
+    width: 280px;
+    border:2px solid rgb(57, 105, 124);
+    border-radius: 20px;
+     /* margin-top: 10px; 
+    margin-left: 35px;
+    padding-top: 70px; 
+    text-align: center; */
+    margin-top: 25px;
+    background-color:  white;
+    padding-left: 30px;
+}
+.rajahmundry{
+    color: black;
+    height:150px;
+    width: 280px;
+    border:2px solid rgb(57, 105, 124);
+    border-radius: 20px;
+    background-color:  white;
+    padding-left: 30px;
+    margin-top: 30px;
+}
+.list1{
+    margin-left: 100px;
+    margin-top: 0px;
+    
+}
+.list1inside{
+    font-size: 20px;
+}
+.list2{
+    margin-left: 100px;
+    margin-top: 0px;
+    
+}
+.list2inside{
+    font-size: 20px;
+}
+.list3
+{
+    margin-left: 130px;
+}
+.lastlogo{
+    margin-left: 95%;
+    font-size: 30px;  
+}
+.lastlogo:hover{
+    color:goldenrod;
+  
+}
+
+ }
+
+
+
+
+ @media screen and (min-width:1024px) and (max-width:1199px)
+ {
+    
+
+
+.Header{
+   padding-left: 30px;
+   background-color: rgb(57, 105, 124);
+   color:white;
+   height:30px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   width: 100%;
+ 
+}
+
+/* .image-container{
+    position: relative;
+    width: 100%;
+    /* max-width: 600px; 
+}
+.image-container img{
+    
+    width: 100%;
+    display: block;
+
+}
+.color-overlay{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height:100%;
+    background-color: rgb(196, 190, 190);
+} */
+
+.Home{
+    display: flex;
+    list-style: none;
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: sticky;
+    top: 0px;
+    background-color: white;   
+  
+}
+
+.Home img{
+    margin-left: 10px;
+}
+.button{
+            border: 2px solid rgb(57, 105, 124);        
+             margin-left:75px ;
+             height: 30px;
+             width: 100px;
+             padding-left: 30px;
+             padding-top: 15px;
+             margin-top: 30px;
+             border-radius: 50px;
+            
+            
+            background-color:rgb(57, 105, 124);
+
+} 
+
+.Picture{
+    position: relative;
+    width: 100%;
+    overflow-x: hidden;
+    display: block;
+}
+.picture img{
+    width: 100%;
+
+}
+
+/* img {
+    width: 100%;
+    display: block;
+} */
+
+.text{
+    position: absolute;
+    top: 0;
+    margin-left: 50px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+
+ /* .border{
+    position: absolute;
+    top:0;
+    margin-left: 150px;
+    border: 2px solid rgb(116, 26, 26);
+    border-radius: 50px;
+    color: black;
+}  */
+
+.text2{
+    position: absolute;
+    top: 0;
+    margin-left: 50px;
+    margin-top: 170px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+
+.second{
+    margin-left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 40px;
+    
+}
+.second h1{
+    font-size: 25px;
+}
+
+.para{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.space{
+    margin-left: 90px;
+}
+
+.gdpic{
+    margin-left: 100px;
+    margin-top: 130px;
+    border-radius: 10%;
+    width: 500px;
+    height: 500px;
+}
+
+.third{
+    background-color:  rgb(57, 105, 124);
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+   
+.one{
+    height: 260px;
+    width: 200px;
+   
+    border:2px solid white;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 50px;
+    padding-top: 0px;
+    text-align: center;
+    background-color:  white;
+
+}
+.one h2{
+    font-size: 20px;
+}
+.one img{
+    height: 100px;
+    width: 100px;
+}
+.two h2{
+    font-size: 20px;
+}
+.two img{
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
+.two{
+    height: 260px;
+    width: 200px;
+   
+    border:2px solid white;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 25px;
+    padding-top: 0px;
+    text-align: center;
+    background-color:  white;
+}
+
+.three h2{
+    font-size: 20px;
+}
+.three img{
+    height: 100px;
+    width: 100px;
+}
+
+
+.three
+{
+    height: 260px;
+    width: 200px;
+   
+    border:2px solid white;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 25px;
+    padding-top: 0px;
+    text-align: center;
+    background-color:  white;
+    
+}
+
+.four h2{
+    font-size: 20px;
+}
+.four img{
+    height: 100px;
+    width: 100px;
+}
+
+.four
+{
+    height: 260px;
+    width: 200px;
+   
+    border:2px solid white;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 25px;
+    padding-top: 0px;
+    text-align: center;
+    background-color: white;
+}
+
+.Home img{
+    height: 100px;
+    margin-left: 70px;
+}
+
+.fourth{
+
+    height: 400px;
+    width: 400px;
+    border:2px solid rgb(57, 105, 124);
+    border-radius: 20px;
+    margin-top: 60px; 
+    margin-left: 30px;
+    padding-top: 70px;
+    text-align: justify;
+    padding-left: 50px;
+    background-color: rgb(57, 105, 124);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.white{
+    color: white;
+}
+
+    
+    
+.table
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 05px;
+    padding-left: 40px;
+   
+
+}
+.fifth{
+   background-color:rgb(57, 105, 124); 
+}
+.fifth img{
+    /* height: 500px;
+    width: 600px; */
+    border-radius: 60px;
+    margin-top: 50px;
+    margin-left: 20px;
+    padding-bottom: 40px;
+}
+.table2{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+}
+.table2 table{
+    margin-left: 50px;
+}
+.fifthpart{
+    margin-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.order{
+    margin-left: 40px;
+    text-align: center;
+}
+.order p{
+    color: rgb(85, 83, 83);
+}
+.sixth{
+    color:white;
+    background-color:rgb(57, 105, 124) ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 30px;
+
+}
+.logo1{
+    height: 100px;
+    width: 150px;
+    border:2px solid rgb(85, 126, 143);
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: -140px;
+    /* padding-right: 150px; */
+    padding-top: 70px;
+    text-align: center;
+    background-color:  rgb(57, 105, 124);
+}
+.logo2{
+    height: 100px;
+    width: 150px;
+    border:2px solid rgb(85, 126, 143);
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 50px;
+    padding-top: 70px;
+    text-align: center;
+    background-color:  rgb(57, 105, 124);
+}
+.logo3{
+    height: 100px;
+    width: 150px;
+    border:2px solid rgb(85, 126, 143) ;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 50px;
+    padding-top: 70px;
+    text-align: center;
+    background-color:  rgb(57, 105, 124);
+}
+.logo4{
+    height: 100px;
+    width: 150px;
+    border:2px solid rgb(85, 126, 143) ;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 50px;
+    padding-top: 70px;
+    text-align: center;
+    background-color:  rgb(57, 105, 124);
+}
+.logos{
+    margin-left: 250px;
+    color: white;
+    margin-bottom: 140px;
+    
+
+}
+.logos:hover{
+    color:white;
+    border: 5px solid rgb(57, 105, 124);
+}
+.logo1:hover{
+    color:black;
+    border: 5px solid white;
+    background-color: white;
+    transform: scale(0.9);
+    transition: .5s;
+}
+.logo2:hover{
+    color:black;
+    border: 5px solid white;
+    background-color: white;
+    transform: scale(0.9);
+    transition: .5s;
+}
+.logo3:hover{
+    color:black;
+    border: 5px solid white;
+    background-color: white;
+    transform: scale(0.9);
+    transition: .5s;
+}
+.logo4:hover{
+    color:black;
+    border: 5px solid white;
+    background-color: white;
+    transform: scale(0.9);
+    transition: .5s;
+}
+.one:hover{
+    color:white;
+    border: 2px solid white;
+    background-color:rgb(57, 105, 124) ;
+    transform: scale(0.9);
+    transition: .5s;
+
+}
+.two:hover{
+    color:white;
+    border: 2px solid white;
+    background-color:rgb(57, 105, 124) ;
+    transform: scale(0.9);
+    transition: .5s; 
+    
+}
+
+.three:hover{
+    color:white;
+    border: 2px solid white;
+    background-color:rgb(57, 105, 124) ;
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.four:hover{
+    color:white;
+    border: 2px solid white;
+    background-color:rgb(57, 105, 124) ;
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+/* .Space2{
+    border: 20px solid white;
+    background-color: white;
+} */
+.Seven{
+  background-color:rgb(57, 105, 124) ;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.hyderabad{
+     color: black;
+    height:150px;
+    width: 280px;
+    border:2px solid rgb(57, 105, 124);
+    border-radius: 20px;
+     /* margin-top: 10px; 
+    margin-left: 35px;
+    padding-top: 70px; 
+    text-align: center; */
+    margin-top: 25px;
+    background-color:  white;
+    padding-left: 30px;
+}
+.rajahmundry{
+    color: black;
+    height:150px;
+    width: 280px;
+    border:2px solid rgb(57, 105, 124);
+    border-radius: 20px;
+    background-color:  white;
+    padding-left: 30px;
+    margin-top: 30px;
+}
+.list1{
+    margin-left: 15px;
+    margin-top: 0px;
+    
+}
+.list1inside{
+    font-size: 16px;
+}
+.list2{
+    margin-left: 15px;
+    margin-top: 0px;
+    
+}
+.list2inside{
+    font-size: 16px;
+}
+.list3
+{
+    margin-left:80px;
+}
+.lastlogo{
+    margin-left: 95%;
+    font-size: 30px;  
+}
+.lastlogo:hover{
+    color:goldenrod;
+  
+}
+
+ }
